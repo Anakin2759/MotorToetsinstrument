@@ -1,0 +1,17 @@
+﻿---
+Language:        Cpp
+BasedOnStyle:    Microsoft
+
+AccessModifierOffset: -4
+AlignAfterOpenBracket: Align
+AlignEscapedNewlines: Right
+AlignOperands:   Align
+AlignTrailingComments: true
+
+AllowShortFunctionsOnASingleLine: All
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: false
+
+ColumnLimit:     120
+CommentPragmas:  '^ IWYU pragma:'
+
